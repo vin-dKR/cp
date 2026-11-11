@@ -1,0 +1,4 @@
+3
+1 bat
+3 ate eat tea
+2 nat tan
